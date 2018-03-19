@@ -1,0 +1,24 @@
+#108th prb
+a1,b1,c1=map(int,).split(' '))
+n1
+if (a[i] < smallest)
+{
+smallest = a[i];
+    }
+    }
+    printf("smallest of ten numbers is %d\n", smallest);
+    return 0;
+  }
+printf("The result is:%d",r);
+getch();
+return 0;
+}#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int i;
+int l=3,b=3,h=3;
+printf("enter the length,breadth,height");
+scanf("%d,%d,%d",&l,&b,&h);
+getch();
+}
